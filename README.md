@@ -17,6 +17,9 @@ Este proyecto sencillo esta desarrollado en JavaScript, cuyo principal objetivo 
 3. Una vez que tengas tu lista completa, haz clic en "Sortear Amigo" para ver el resultado.
 4. Este proyecto está diseñado para ser una herramienta educativa simple, perfecta para principiantes que buscan practicar la lógica de programación con JavaScript.
 
+# 📂Acceso al Juego:
+Da click en el siguiente link: 👉 https://jukarvi.github.io/amigo-secreto-esp-main/, para que puedas probarlo y jugar.
+
 # 🤝Contribuciones
 Si quieres mejorar este proyecto, ¡tus contribuciones son bienvenidas! Sigue estos pasos:
 1. Haz un `fork` del repositorio.
@@ -30,4 +33,5 @@ Este proyecto está bajo la Licencia MIT. Como práctica de lógica de programac
 
 # 📞Contacto
 Si tienes preguntas, puedes contactarme en jukarvi@hotmail.es.
+
 ¡Feliz intercambio de regalos! 🎁
